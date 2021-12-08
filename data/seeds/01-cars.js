@@ -5,24 +5,24 @@ const cars =[
     {
         vin:'12345678987654321',
         make: 'toyota',
-        module: 'prius',
-        milage: 2000,
+        model: 'prius',
+        mileage: 2000,
         title: 'salvage',
         
     },
     {
         vin:'12345678909876543',
         make: 'gmc',
-        module: 'seirra',
-        milage: 250000,
+        model: 'seirra',
+        mileage: 250000,
         title: 'clean',
         transmission: 'automatic'
     },
     {
         vin:'98765432123456789',
         make: 'chevrolet',
-        module: 'trax',
-        milage: 6000,
+        model: 'trax',
+        mileage: 6000,
         
     },
 ]
